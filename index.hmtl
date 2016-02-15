@@ -1,7 +1,7 @@
 <head>
-<link rel="stylesheet" type="text/css" href="css-knapp.css">
+    <link rel="stylesheet" type="text/css" href="css-knapp.css">
 </head>
 <p>
-  <input type="button" value="En knapp" class ="knapp" />
-  <a href="http://www.dn.se" class="knapp">En länk</a>
+    <input type="button" value="En knapp" class="knapp" />
+    <a href="http://www.dn.se" class="knapp">En länk</a>
 </p>
